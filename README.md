@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨🏼‍💻 I am an **Mphil student** at the University of Hong Kong (HKU)
-- 🔭 I’m currently working on Robot Perception(Monocular Depth Estimation; Semantic Separation; SLAM), Edge AI(Efficient AI on Edge Devices; Edge Video Analytics)
+- 🔭 I’m currently working on **Robot Perception** (Monocular Depth Estimation; Semantic Separation; SLAM), **Edge AI** (Efficient AI on Edge Devices; Edge Video Analytics)
 - ⚡ Most of my projects are opensourced at GitHub and are pinned below.
 - 📫 My [homepage](https://jmwang.netlify.app/)
 - :book: Check my publications via [google scholar](https://scholar.google.com.hk/citations?user=yq72b6IAAAAJ&hl=zh-CN)
