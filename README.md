@@ -3,7 +3,7 @@
 - 👨🏼‍💻 I am an **MPhil student** at the University of Hong Kong (HKU), and affiliated with HKU Software and System Laboratory.
 - 🔭 I’m currently working on **Robot Perception** (NeRF/3D Vision; SLAM/Point Cloud; Depth Estimation), **Robot Learning Systems** (Multi-Robot Systems; Distributed Robotic Learning; EdgeAI)
 - ⚡ Most of my projects are opensourced at GitHub and are pinned below.
-- 📫 See my [homepage](https://jmwangcs.netlify.app/) for more information.
+
 
 
 
@@ -12,7 +12,7 @@
 
 <!--
 **jmwang0117/jmwang0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 📫 See my [homepage](https://jmwangcs.netlify.app/) for more information.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
