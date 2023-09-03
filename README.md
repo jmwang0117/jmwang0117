@@ -2,7 +2,7 @@
 
 - 👨🏼‍💻 I am an **MPhil student** at the University of Hong Kong (HKU), and affiliated with HKU Software and System Laboratory.
 - 🔭 I’m currently working on **Robot Perception** (NeRF/3D Vision; SLAM/Point Cloud; Depth Estimation), **Robot Learning Systems** (Multi-Robot Systems; Distributed Robotic Learning; EdgeAI)
-- ⚡ Most of my projects are opensourced at GitHub and are pinned below.
+- ⚡ Most of my projects are open-source at GitHub and are pinned below.
 
 
 
