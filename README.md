@@ -26,7 +26,7 @@
 
 ### :woman_technologist: About Me :
 I am an **MPhil student** at the University of Hong Kong (HKU), and affiliated with HKU Software and System Laboratory.
-- :telescope: I’m currently working on **Robot Perception** (NeRF/3D Vision; SLAM/Point Cloud; Depth Estimation), **Robot Learning Systems** (Multi-Robot Systems; Distributed Robotic Learning; EdgeAI)
+- :telescope: I’m currently working on **Embodied AI** 
 - :seedling: Most of my projects are open-source at GitHub and are pinned below.
 
 ---
