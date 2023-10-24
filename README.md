@@ -1,8 +1,14 @@
-### Hi there I'm [Junming Wang (王俊铭 in Chinese)!](https://jmwangcs.netlify.app/)👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  ### Hi there I'm [Junming Wang (王俊铭 in Chinese)!](https://jmwangcs.netlify.app/)👋
 
 - 👨🏼‍💻 I am an **MPhil student** at the University of Hong Kong (HKU), and affiliated with HKU Software and System Laboratory.
 - 🔭 I’m currently working on **Robot Perception** (NeRF/3D Vision; SLAM/Point Cloud; Depth Estimation), **Robot Learning Systems** (Multi-Robot Systems; Distributed Robotic Learning; EdgeAI)
 - ⚡ Most of my projects are open-source at GitHub and are pinned below.
+</div>
+
+
+
 
 
 ---
