@@ -51,9 +51,9 @@ I am an **MPhil student** at the University of Hong Kong (HKU), and affiliated w
 </div>
 
 ---
-
+### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jmwang0117&theme=transparent)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmwang0117)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
