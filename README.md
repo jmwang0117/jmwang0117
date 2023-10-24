@@ -9,9 +9,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmwang0117&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&show_icons=true)
-<a href="https://github.com/cosmojg#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmojg&layout=compact&langs_count=10&hide_border=1&theme=tokyonight#gh-dark-mode-only" alt="Cosmo's Language Stats" />
-</a>
+
 <!--
 **jmwang0117/jmwang0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 See my [homepage](https://jmwangcs.netlify.app/) for more information.
