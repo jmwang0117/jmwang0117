@@ -12,6 +12,10 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=jmwang0117&style=flat-square&color=blue" alt=""/>
+  <h1>
+   Hi there I'm Junming Wang (王俊铭 in Chinese)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 
