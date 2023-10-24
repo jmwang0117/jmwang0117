@@ -5,11 +5,6 @@
 - ⚡ Most of my projects are open-source at GitHub and are pinned below.
 
 
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmwang0117&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&show_icons=true)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -30,6 +25,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jmwang0117&theme=transparent)](https://git.io/streak-stats)
+
 
 
 <!--
