@@ -19,9 +19,6 @@
 </div>
 
 
-
----
-
 ### :woman_technologist: About Me :
 I am an **MPhil student** at the University of Hong Kong (HKU), and affiliated with HKU Software and System Laboratory.
 - :telescope: I’m currently working on **Embodied AI** 
