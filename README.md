@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 I am an **MPhil student** at the University of Hong Kong (HKU), and affiliated with HKU Software and System Laboratory.
-- :telescope: I’m currently working on **Embodied AI** 
+- :telescope: I’m currently working on **Embodied AI**, Robot perception, prediction, planning and control.
 - :seedling: Most of my projects are open-source at GitHub and are pinned below.
 
 ---
