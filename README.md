@@ -32,7 +32,6 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
-
 ✔ Pronouns: He/His or TeamMaker😉
 ✔ I’m currently Developing Air-Ground Robot @AGRNav
 ✔ I’m currently learning AIGC& Generative Model
