@@ -62,9 +62,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
----
-
- 
 
 -----
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmwang0117&show_icons=true&locale=en&layout=compact" alt="jmwang0117" /></p>
