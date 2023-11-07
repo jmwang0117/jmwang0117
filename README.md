@@ -29,7 +29,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmwang0117&label=Profile%20views&color=0e75b6&style=flat" alt="jmwang0117" /> </p>
-<img align="right" width=400px alt="Unicorn" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***<br>
