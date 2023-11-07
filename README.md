@@ -31,7 +31,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+
+***Talking about Personal Stuffs...***
 ✔ Pronouns: He/His or TeamMaker😉
 ✔ I’m currently Developing Air-Ground Robot @AGRNav
 ✔ I’m currently learning AIGC& Generative Model
@@ -66,10 +68,9 @@
  
 
 -----
-Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
-Last Edited on: 22/02/2021
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-chowrasia&count_private=true&show_icons=true" alt="akash-chowrasia" width="410" /></p>
 
 
 
