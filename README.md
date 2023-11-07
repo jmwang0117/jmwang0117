@@ -31,18 +31,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
-
-***Talking about Personal Stuffs...***
-✔ Pronouns: He/His or TeamMaker😉
-✔ I’m currently Developing Air-Ground Robot @AGRNav
-✔ I’m currently learning AIGC& Generative Model
-✔ I’m looking to collaborate with any Open - Source contribution
-✔ I’m looking for help for learning **Embodied AI**
-✔ I regularly write articles on CSDN/ZhiHu
-✔ I use to write coad on leetcode
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
-✔ Most of my projects are open-source at GitHub and are pinned below
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+✔ Pronouns: He/His or TeamMaker😉<br>
+✔ I’m currently Developing Air-Ground Robot @AGRNav<br>
+✔ I’m currently learning AIGC& Generative Model<br>
+✔ I’m looking to collaborate with any Open - Source contribution<br>
+✔ I’m looking for help for learning **Embodied AI**<br>
+✔ I regularly write articles on CSDN/ZhiHu<br>
+✔ I use to write coad on leetcode<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Most of my projects are open-source at GitHub and are pinned below<br>
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -68,9 +66,9 @@
  
 
 -----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmwang0117&show_icons=true&locale=en&layout=compact" alt="jmwang0117" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-chowrasia&count_private=true&show_icons=true" alt="akash-chowrasia" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmwang0117&count_private=true&show_icons=true" alt="jmwang0117" width="410" /></p>
 
 
 
