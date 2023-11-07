@@ -33,7 +33,6 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-### :woman_technologist: About Me :
 ✔ Pronouns: He/His or TeamMaker😉
 ✔ I’m currently Developing Air-Ground Robot @AGRNav
 ✔ I’m currently learning AIGC& Generative Model
