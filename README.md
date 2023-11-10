@@ -48,9 +48,9 @@
 
 
 -----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmwang0117&show_icons=true&locale=en&layout=compact" alt="jmwang0117" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmwang0117&show_icons=true&locale=en&layout=compact" alt="jmwang0117" /></p>&nbsp;
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jmwang0117&count_private=true&show_icons=true" alt="jmwang0117" width="410" /></p><br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jmwang0117&count_private=true&show_icons=true" alt="jmwang0117" width="410" /></p><br>&nbsp;
 
 -----
 ### :hammer_and_wrench: Languages and Tools :
