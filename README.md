@@ -44,15 +44,8 @@
 ✔ ⚡Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ 🔭Most of my projects are open-source at GitHub and are pinned below<br>
 
-
-
-
 -----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmwang0117&show_icons=true&locale=en&layout=compact" alt="jmwang0117" /></p>&nbsp;
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jmwang0117&count_private=true&show_icons=true" alt="jmwang0117" width="410" /></p><br>&nbsp;
------
------
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
@@ -70,4 +63,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+
+
+-----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmwang0117&show_icons=true&locale=en&layout=compact" alt="jmwang0117" /></p>&nbsp;
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jmwang0117&count_private=true&show_icons=true" alt="jmwang0117" width="410" /></p><br>&nbsp;
 
