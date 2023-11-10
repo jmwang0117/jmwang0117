@@ -34,15 +34,23 @@
 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***<br>
-✔ Pronouns: He/His or TeamMaker😉<br>
-✔ I’m currently Developing Air-Ground Robot @AGRNav<br>
-✔ I’m currently learning AIGC& Generative Model<br>
-✔ I’m looking to collaborate with any Open - Source contribution<br>
-✔ I’m looking for help for learning **Embodied AI**<br>
-✔ I regularly write articles on CSDN/ZhiHu<br>
-✔ I use to write coad on leetcode<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Most of my projects are open-source at GitHub and are pinned below<br>
+✔ 🔭 Pronouns: He/His or TeamMaker😉<br>
+✔ 🌱 I’m currently Developing Air-Ground Robot @AGRNav<br>
+✔ 👯 I’m currently learning AIGC& Generative Model<br>
+✔ 🤔 I’m looking to collaborate with any Open - Source contribution<br>
+✔ 💬 I’m looking for help for learning **Embodied AI**<br>
+✔ 📫 I regularly write articles on CSDN/ZhiHu<br>
+✔ 😄 I use to write coad on leetcode<br>
+✔ ⚡Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ 🔭Most of my projects are open-source at GitHub and are pinned below<br>
+
+
+
+
+-----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmwang0117&show_icons=true&locale=en&layout=compact" alt="jmwang0117" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jmwang0117&count_private=true&show_icons=true" alt="jmwang0117" width="410" /></p>
 
 -----
 ### :hammer_and_wrench: Languages and Tools :
@@ -63,26 +71,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-
------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmwang0117&show_icons=true&locale=en&layout=compact" alt="jmwang0117" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jmwang0117&count_private=true&show_icons=true" alt="jmwang0117" width="410" /></p>
-
-
-
-<!--
-**jmwang0117/jmwang0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 📫 See my [homepage](https://jmwangcs.netlify.app/) for more information.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- :book: Check my publications via [google scholar](https://scholar.google.com.hk/citations?user=yq72b6IAAAAJ&hl=zh-CN)
--->
