@@ -36,7 +36,7 @@
 ✔ 🤔 I’m looking to collaborate with any Open - Source contribution<br>
 ✔ 💬 I’m looking for help for learning **Embodied AI**<br>
 ✔ 📫 I regularly write articles on CSDN<br>
-✔ 🔭Most of my projects are open-source at GitHub and are pinned below<br>
+✔ 🔭Most of my projects are open-source at GitHub and are pinned below !<br>
 
 -----
 
