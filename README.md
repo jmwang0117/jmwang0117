@@ -31,7 +31,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***<br>
 ✔ 🔭 Pronouns: He/His or TeamMaker😉<br>
-✔ 🌱 I’m currently Developing Air-Ground Robot @AGRNav<br>
+✔ 🌱 I’m currently Developing Air-Ground Robot @AGRNav and @EH-Nav<br>
 ✔ 👯 I’m currently learning AIGC& Generative Model<br>
 ✔ 🤔 I’m looking to collaborate with any Open - Source contribution<br>
 ✔ 💬 I’m looking for help for learning **Embodied AI**<br>
