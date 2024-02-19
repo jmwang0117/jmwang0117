@@ -4,7 +4,8 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Junming Wang</h1>
 <h3 align="center">Robot Algorithm Researcher | Technical Content Writer | Robotic+LLMs Enthusiast</h3>
-<h4 align="center" style="color:red;">I am on the industrial job market in the 2024-2025.</h4>
+<h4 align="center" style="color:red; text-decoration: underline;">I am on the industrial job market in the 2024-2025.</h4>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/junming-wang-3b0973207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
