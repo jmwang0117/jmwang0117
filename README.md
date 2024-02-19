@@ -2,9 +2,10 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Junming Wang</h1>
-<h3 align="center">Robot Algorithm Researcher | Technical Content Writer | Robotic+LLMs Enthusiast</h3>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Junming Wang</h2>
 <h4 align="center" style="color:red; text-decoration: underline;">I am on the industrial job market in the 2024-2025.</h4>
+<h3 align="center">Robot Algorithm Researcher | Technical Content Writer | Robotic+LLMs Enthusiast</h3>
+
 
 
 <p align="center">
