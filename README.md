@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h3 align="center">Robot Algorithm Researcher | Technical Content Writer | Robotic+LLMs Enthusiast</h3>
+
 
 
 
