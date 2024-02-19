@@ -2,8 +2,6 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Junming Wang</h2>
-<h4 align="center" style="color:red; text-decoration: underline;">I am on the industrial job market in the 2024-2025.</h4>
 <h3 align="center">Robot Algorithm Researcher | Technical Content Writer | Robotic+LLMs Enthusiast</h3>
 
 
@@ -24,7 +22,7 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>I am on the industrial job market in the 2024-2025 !!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=jmwang0117&label=Profile%20views&color=0e75b6&style=flat" alt="jmwang0117" /> </p>
 </p>
 
