@@ -63,17 +63,19 @@
 
 ---
 
+<br clear="both"/>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmwang0117&show_icons=true&count_private=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmwang0117&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmwang0117&theme=github" width="96%" alt="profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmwang0117&theme=default&hide_border=true" height="165" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmwang0117&theme=github" width="32%" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmwang0117&theme=github" width="32%" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmwang0117&theme=github" width="32%" alt="most commit language" />
 </p>
-
 ---
 
 ## 🌟 Current Interests
