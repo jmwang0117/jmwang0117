@@ -1,61 +1,105 @@
+<div align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" />
+</div>
+
+<h1 align="center">Hi 👋, I'm Junming WANG</h1>
+
+<h3 align="center">
+  Embodied AI Researcher | Full-Stack Robot Developer | Competitive Programming Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://komarev.com/ghpvc/?username=jmwang0117&label=Profile%20views&color=0e75b6&style=flat" alt="jmwang0117" />
 </p>
-<hr>
-
-
-
 
 <p align="center">
   <em>
-    This is Junming WANG, an <b>Embodied AI</b> Researcher at a startup. <br>
-    A budding <b>Full-Stack Robot Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
- 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=jmwang0117&label=Profile%20views&color=0e75b6&style=flat" alt="jmwang0117" /> </p>
+    This is <b>Junming WANG</b>, an <b>Embodied AI</b> researcher at a startup.<br>
+    A budding <b>Full-Stack Robot Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28px"> 
+    and a <b>Competitive Programming Enthusiast</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30px">.<br>
+    I am obsessed with the idea of <b>continuous improvement</b>, and I’m always looking for a platform to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+    and <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.
+  </em>
 </p>
 
+---
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px"> About Me
 
+<img align="right" width="300px" alt="coding" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***<br>
-✔ 🔭 Pronouns: He/His or TeamMaker😉<br>
-✔ 🌱 I’m currently Developing Air-Ground Robot @AGRNav and @HE-Nav<br>
-✔ 👯 I’m currently learning AIGC & Generative Model<br>
-✔ 🤔 I’m looking to collaborate with any Open - Source contribution !<br>
-✔ 💬 I’m looking for help for learning **Embodied AI**<br>
-✔ 📫 I regularly write articles on CSDN<br>
-✔ 🔭Most of my projects are open-source at GitHub and are pinned below !<br>
+- 🔭 Currently developing **Air-Ground Robots @AGRNav and @HE-Nav**
+- 🌱 Currently learning **AIGC & Generative Models**
+- 🤝 Open to **Open-Source Collaboration**
+- 💬 Exploring and learning more about **Embodied AI**
+- 📝 I regularly write technical articles on **CSDN**
+- 🚀 Most of my projects are **open-source** and pinned below
+- 😄 Pronouns: **He / His / TeamMaker**
 
------
+<br clear="both"/>
 
-**Languages and Tools** :
-<div>
+---
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"  alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+## 🛠 Languages and Tools
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>
+
 </div>
 
+---
 
+## 📊 GitHub Stats
 
------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmwang0117&show_icons=true&locale=en&layout=compact" alt="jmwang0117" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmwang0117&show_icons=true&count_private=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmwang0117&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
+</p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=jmwang0117&count_private=true&show_icons=true" alt="jmwang0117" width="410" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmwang0117&theme=default&hide_border=true" height="165" alt="GitHub streak" />
+</p>
 
+---
+
+## 🌟 Current Interests
+
+- Embodied AI
+- Robotics Learning
+- Manipulation & Navigation
+- Air-Ground Robot Systems
+- AIGC / Generative Models
+- Open-Source Development
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/jmwang0117">
+    <img src="https://img.shields.io/badge/GitHub-jmwang0117-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://blog.csdn.net/">
+    <img src="https://img.shields.io/badge/CSDN-Blog-red?style=for-the-badge&logo=blogger" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Stay curious, keep building, and let robots touch the real world."</em>
+</p>
